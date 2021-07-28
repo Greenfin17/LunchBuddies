@@ -1,2 +1,2 @@
-#Lunch Buddies
-## c# console exercies using classes and composition
+# Lunch Buddies
+- c# console exercies using classes and composition
